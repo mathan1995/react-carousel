@@ -1,6 +1,6 @@
-# React Styled Slider
+# React Carousel
 
-**React Styled Slider** is a react and styled component slider. It is fully configurable.
+**React Carousel ** is a react and styled component slider. It is fully configurable.
 
 ![Live Image](https://res.cloudinary.com/day2qlngn/image/upload/v1624269694/chrome-capture_gmh6no.gif)
 
@@ -16,7 +16,7 @@
 #### Installation
 
 ```sh
-$ npm install --save react-styled-carousel
+$ npm install --save react-carousel
 ```
 
 #### Running example in local
@@ -49,7 +49,7 @@ ReactDOM.render(<ExampleSlider />, document.getElementById("root"));
 
 #### Responsive
 
-`react-styled-carousel` is responsive. Below is the example configuration of responsiveness.
+`react-carousel` is responsive. Below is the example configuration of responsiveness.
 
 > **Note:** If `responsive` prop is provided then, it'll override the cardsToShow prop. In other words cardsToShow will not work.
 
