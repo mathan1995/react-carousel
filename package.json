@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItsMrAkhil/react-styled-carousel.git"
+    "url": "git+https://github.com/mathan1995/react-carousel.git"
   },
   "keywords": [
     "styled-components",
@@ -21,9 +21,9 @@
   "author": "Akhil Pentamsetti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ItsMrAkhil/react-styled-carousel/issues"
+    "url": "https://github.com/mathan1995/react-carousel.git/issues"
   },
-  "homepage": "https://github.com/ItsMrAkhil/react-styled-carousel#readme",
+  "homepage": "https://github.com/mathan1995/react-carousel.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
