@@ -99,4 +99,6 @@ ReactDOM.render(<ExampleSlider />, document.getElementById("root"));
 
 ## License
 
-MIT (**Free Software, Chill Yeah!**)
+MIT (**Free Software, Cheers From £#Mathan!**)
+
+                    buymeacoffee.com/mathan95
